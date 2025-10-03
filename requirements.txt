@@ -3,4 +3,5 @@ fake-useragent
 Faker
 pyTelegramBotAPI
 telebot
+psutil
 bs4
