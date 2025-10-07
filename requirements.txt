@@ -1,3 +1,4 @@
+flash
 requests
 fake-useragent
 Faker
